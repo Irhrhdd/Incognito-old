@@ -1,7 +1,7 @@
 # Incognito
 Access the world wide web!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/irhrhdd/Incognito/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/irhrhdd/Incognito-old/tree/main)
 [![Deploy](https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/replit.svg?raw)](https://repl.it/github/titaniumnetwork-dev/Incognito)
 
 ## Setup
